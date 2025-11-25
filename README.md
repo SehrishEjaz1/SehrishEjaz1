@@ -17,7 +17,7 @@
 
 ## 🛠️ Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,html,css,git,github,vscode,linux" />
 </p>
 
 ---
