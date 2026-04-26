@@ -1,7 +1,7 @@
 # Hi, I'm Sehrish Ejaz 👋
 
 **Computer Science Student @ FAST-NUCES Lahore**  
-*Software Developer | UI/UX Designer | AI Enthusiast*
+*Software Developer | UI/UX Designer | Database Enthusiast*
 
 A passionate Computer Science student exploring Software Development, UI/UX Design, and Artificial Intelligence. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
 
