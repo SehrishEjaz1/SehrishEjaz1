@@ -1,80 +1,100 @@
-<h1 align="center">Sehrish Ejaz</h1>
-<p align="center">
-  <code>C++ · Python · AI · FAST NUCES Lahore · 6th Semester</code>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SehrishEjaz1&style=flat-square&color=grey" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-lightgrey?style=flat-square" />
-</p>
+# Hi, I'm Sehrish Ejaz 👋
 
-> About Me
-CS student at FAST NUCES Lahore (6th Semester) who enjoys writing code and understanding how things work — from algorithms down to registers and memory.
+**Computer Science Student @ FAST-NUCES Lahore**  
+*Software Developer | UI/UX Designer | AI Enthusiast*
 
-⚙️ I write C++ for problem solving, DSA, and system-level logic — my main language throughout CS
-🐍 Currently working in Python — using it for AI/ML projects this semester
-🤖 Building a Violence Detection system using CNN + LSTM for my AI course
-🖥️ Worked with Assembly (x86) in coursework — understand low-level program flow and memory
-🌐 Basic familiarity with HTML & CSS — learned in earlier semesters, can build simple pages
-🏆 Won a competition by optimizing a C++ algorithm in under 1 hour
-📩 sehrish.ejaz01@gmail.com
+A passionate Computer Science student exploring Software Development, UI/UX Design, and Artificial Intelligence. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
 
+---
 
-> Technical Stack
-Strong
+## 🛠️ Tech Stack
 
-C++ — Data Structures, OOP, Algorithm Optimization, Competitive Programming
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Currently Using
+**Databases:**  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-Python — AI/ML (CNN + LSTM), scripting, problem solving
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-Tools
+---
 
-Git · GitHub · VS Code · Linux
+## 🚀 Featured Projects
 
-Basic Familiarity
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **TradeNex — Digital Trade & Ordering Platform** | Figma · UI/UX · System Design | Real-client web-based procurement platform for tile installation materials. Designed wireframes and prototypes with focus on usability and guided user workflows. |
+| **AI-Powered Material Recommendation System** | Python · Random Forest · Pandas | Decision support system that estimates tile installation material quantities and recommends grout colour based on project inputs. |
+| **Online Library Management System** | SQL · Oracle/MySQL | Database-driven system with member management, book tracking, and fine calculation. Designed ER diagrams and normalized schema to 3NF. |
+| **OSPF vs RIP Routing Comparison** | Cisco Packet Tracer | Performance evaluation of two routing protocols. Analyzed convergence time, bandwidth usage, and scalability across topologies. |
+| **Pac-Man Game** | x86 Assembly | VGA text-mode game with animated character movement. Implemented game loop, keyboard input handling, and screen rendering at low level. |
+| **Customer Service Module** | C++ | Built using doubly linked lists and AVL trees for user data management with optimized search and retrieval. |
+| **Hotel Management System** | C++ | Hotel booking and services system using OOP principles with room allocation and billing. |
 
-HTML / CSS — learned in earlier semesters
-Assembly x86 — covered in coursework
+---
 
+## 📊 GitHub Stats
 
-> Projects
-🤖 Violence Detection in Video  6th Semester · AI
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SehrishEjaz1&theme=radical)
 
-Detects violent activity in video footage using deep learning
-Architecture: CNN + LSTM for spatial + temporal feature extraction
-Language: Python
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SehrishEjaz1&layout=compact&theme=radical)
 
-🛒 TradeNex — Digital Trade Platform  6th Semester · Software Engineering
+---
 
-Full digital trade platform applying SE principles across the complete SDLC
-Team project — requirements, design, implementation, testing
-Tech stack: TBD
+## 🎯 Currently Working On
 
-🌐 OSPF vs RIP — Routing Algorithm Comparison  5th Semester · Computer Networks
+- 🤖 AI-Powered Construction Material Recommendation System
+- 🌐 TradeNex — Real-client Digital Trade Platform
+- 💡 Strengthening Software Development & UI/UX skills
+- 📚 Building more practical, real-world projects
+- 🤝 Open to collaborations and internship opportunities
 
-Performance evaluation of OSPF Multi-Area vs RIP Distance Vector routing
-Implemented and tested on Cisco Packet Tracer
-Analyzed convergence time, bandwidth usage, and scalability
+---
 
-📚 Online Library Management System  5th Semester · Database Systems
+## 💡 Skills & Interests
 
-Full library system with member management, book tracking, and fine calculation
-Designed ER diagrams, normalized schema, and wrote complex SQL queries
-Language: SQL
+✅ **Software Development** - Building real-world applications  
+✅ **UI/UX Design** - Creating user-centered wireframes and prototypes in Figma  
+✅ **Artificial Intelligence** - Applying ML models to practical problems  
+✅ **Database Design** - Efficient schemas, SQL queries, and data modeling  
+✅ **Problem Solving** - DSA, OOP, and low-level programming  
 
-🔢 DSA Implementations  Ongoing · C++
+---
 
-Built core data structures from scratch: Linked Lists, Trees, Graphs, Sorting
-Focus on understanding time and space complexity for each implementation
-Language: C++
+## 🏆 Achievements
 
+- 🥇 Winner, C++ Coding Competition — FAST Problem-Solving Challenge, Fsd Campus 2024
+- 🥈 Runner-Up, Business Scavenger Hunt — FAST NUCES Business Society, Isb Campus 2024
+- 🎓 Pursuing Computer Science at FAST-NUCES Lahore
+- 💻 7+ project completions across AI, UI/UX, Systems, and Database domains
+- 🌟 Experience working on real-client projects
 
-> My Approach to Code
-1. Make it work
-2. Understand exactly WHY it works
-3. Make it efficient
-4. Clean it up so others can read it
+---
 
-> Let's Connect
-[![Email](https://img.shields.io/badge/sehrish.ejaz01%40gmail.com-grey?style=flat-square&logo=gmail)](mailto:sehrish.ejaz01@gmail.com)
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on projects, discuss ideas, or help with problem-solving!
+
+- 💼 **GitHub**: [@SehrishEjaz1](https://github.com/SehrishEjaz1)
+- 📧 **Email**: sehrish.ejaz01@gmail.com
+- 📞 **Contact**: 03008327301
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile!**  
+*Always curious, always creating.* 🚀
+
+</div>
