@@ -3,7 +3,7 @@
 **Computer Science Student @ FAST-NUCES Lahore**  
 *Software Developer | QA Tester | AI/ML Explorer | UI/UX Designer | Database Enthusiast*
 
-A passionate Computer Science student exploring Software Development,Software Testing, UI/UX Design, and Artificial Intelligence. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
+A passionate Computer Science student exploring Software Development, Software Testing, UI/UX Design, and Artificial Intelligence. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
 
 ---
 
