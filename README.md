@@ -67,7 +67,7 @@ A passionate Computer Science student exploring Software Development, Software T
 ## 💡 Skills & Interests
 
 ✅ **Software Development** - Building real-world applications  
-✅ **QA & Software Testing** - Automated testing with Katalon Studio and Selenium
+✅ **QA & Software Testing** - Automated testing with Katalon Studio and Selenium                                           
 ✅ **UI/UX Design** - Creating user-centered wireframes and prototypes in Figma  
 ✅ **Artificial Intelligence** - Applying ML models to practical problems  
 ✅ **Database Design** - Efficient schemas, SQL queries, and data modeling  
