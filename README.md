@@ -1,9 +1,9 @@
 # Hi, I'm Sehrish Ejaz 👋
 
 **Computer Science Student @ FAST-NUCES Lahore**  
-*Software Developer | QA Tester | AI/ML Explorer | UI/UX Designer | Database Enthusiast*
+*ML Intern | Software Developer | QA Tester | AI/ML Explorer | UI/UX Designer*
 
-A passionate Computer Science student exploring Software Development, Software Testing, UI/UX Design, and Artificial Intelligence. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
+A passionate Computer Science student exploring Machine Learning, Software Development, Software Testing, and UI/UX Design. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
 
 ---
 
@@ -18,6 +18,12 @@ A passionate Computer Science student exploring Software Development, Software T
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**ML/AI:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -36,13 +42,15 @@ A passionate Computer Science student exploring Software Development, Software T
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **TradeNex — Digital Trade & Ordering Platform** | Figma · UI/UX · System Design | Real-client web-based procurement platform for tile installation materials. Designed wireframes and prototypes with focus on usability and guided user workflows. |
+| **Content Refresh Prioritization — FlyRank ML Internship** | Python · Scikit-learn · Random Forest · Pandas | ML pipeline on 30,000 real anonymized search records. Built rule baseline, trained Random Forest with client-grouped validation. Precision@50: 0.720 vs baseline 0.500. Deployed as research paper. |
+| **QuickCart Support Chatbot** | Python · TF-IDF · Logistic Regression · Streamlit | AI-powered e-commerce customer support chatbot. 13 intents, ~84% test accuracy, multi-turn context tracking with slot-filling. |
+| **TradeNex — Digital Trade & Ordering Platform** | Figma · UI/UX · System Design | Real-client web-based procurement platform for tile installation materials. Designed wireframes and prototypes with focus on usability. |
 | **AI-Powered Material Recommendation System** | Python · Random Forest · Pandas | Decision support system that estimates tile installation material quantities and recommends grout colour based on project inputs. |
 | **Online Library Management System** | SQL · Oracle/MySQL | Database-driven system with member management, book tracking, and fine calculation. Designed ER diagrams and normalized schema to 3NF. |
-| **OSPF vs RIP Routing Comparison** | Cisco Packet Tracer | Performance evaluation of two routing protocols. Analyzed convergence time, bandwidth usage, and scalability across topologies. |
-| **Pac-Man Game** | x86 Assembly | VGA text-mode game with animated character movement. Implemented game loop, keyboard input handling, and screen rendering at low level. |
-| **Customer Service Module** | C++ | Built using doubly linked lists and AVL trees for user data management with optimized search and retrieval. |
-| **Hotel Management System** | C++ | Hotel booking and services system using OOP principles with room allocation and billing. |
+| **OSPF vs RIP Routing Comparison** | Cisco Packet Tracer | Performance evaluation of two routing protocols. Analyzed convergence time, bandwidth usage, and scalability. |
+| **Pac-Man Game** | x86 Assembly | VGA text-mode game with animated character movement and keyboard input handling. |
+| **Customer Service Module** | C++ | Built using doubly linked lists and AVL trees for optimized search and retrieval. |
+| **Hotel Management System** | C++ | Hotel booking and services system using OOP principles. |
 
 ---
 
@@ -56,22 +64,22 @@ A passionate Computer Science student exploring Software Development, Software T
 
 ## 🎯 Currently Working On
 
-- 🤖 AI-Powered Construction Material Recommendation System
+- 🤖 **FlyRank AI** — Machine Learning Engineering Internship
+- 🎓 **FYP-1** — Final Year Project (Phase 1) at FAST-NUCES Lahore
 - 🌐 TradeNex — Real-client Digital Trade Platform
-- 💡 Strengthening Software Development & UI/UX skills
-- 📚 Building more practical, real-world projects
-- 🤝 Open to collaborations and internship opportunities
+- 📚 Deepening ML skills: model validation, honest evaluation, deployment
 
 ---
 
 ## 💡 Skills & Interests
 
-✅ **Software Development** - Building real-world applications  
-✅ **QA & Software Testing** - Automated testing with Katalon Studio and Selenium                                           
-✅ **UI/UX Design** - Creating user-centered wireframes and prototypes in Figma  
-✅ **Artificial Intelligence** - Applying ML models to practical problems  
-✅ **Database Design** - Efficient schemas, SQL queries, and data modeling  
-✅ **Problem Solving** - DSA, OOP, and low-level programming  
+✅ **Machine Learning** — Model building, validation, leakage auditing, deployment  
+✅ **Software Development** — Building real-world applications  
+✅ **QA & Software Testing** — Automated testing with Katalon Studio and Selenium  
+✅ **UI/UX Design** — Creating user-centered wireframes and prototypes in Figma  
+✅ **Artificial Intelligence** — Applying ML models to practical problems  
+✅ **Database Design** — Efficient schemas, SQL queries, and data modeling  
+✅ **Problem Solving** — DSA, OOP, and low-level programming  
 
 ---
 
@@ -80,20 +88,19 @@ A passionate Computer Science student exploring Software Development, Software T
 - 🥇 Winner, C++ Coding Competition — FAST Problem-Solving Challenge, Fsd Campus 2024
 - 🥈 Runner-Up, Business Scavenger Hunt — FAST NUCES Business Society, Isb Campus 2024
 - 🎓 Pursuing Computer Science at FAST-NUCES Lahore
-- 💻 7+ project completions across AI, UI/UX, Systems, and Database domains
-- 🌟 Experience working on real-client projects
+- 💻 9+ project completions across ML, AI, UI/UX, Systems, and Database domains
+- 🌟 Experience working on real-client and real-data projects
+- 📄 Deployed ML research paper on 30,000-row production dataset
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on projects, discuss ideas, or help with problem-solving!
-
 - 💼 **GitHub**: [@SehrishEjaz1](https://github.com/SehrishEjaz1)
 - 📧 **Email**: sehrish.ejaz01@gmail.com
-- 🌐 Portfolio [Visit My Portfolio](https://sehrishejaz1.github.io/Portfolio/)
+- 🌐 **Portfolio**: [Visit My Portfolio](https://sehrishejaz1.github.io/Portfolio/)
+- 🔬 **ML Research Paper**: [Content Refresh Prioritization](https://sehrishejaz1.github.io/Flyrank_ML_Intern/)
 - 📞 **Contact**: 03008327301
-
 
 ---
 
