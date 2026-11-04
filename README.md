@@ -8,14 +8,18 @@
 
 <br>
 
+<div align="center">
+
 <a href="https://www.linkedin.com/in/sehrish-ejaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-6BADDF?style=for-the-badge&logo=linkedin&logoColor=01193F" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-6BADDF?style=for-the-badge&logo=linkedin&logoColor=01193F" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:sehrish.ejaz01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D2B486?style=for-the-badge&logo=gmail&logoColor=01193F" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GMAIL-173761?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail"/>
 </a>
+
 <a href="https://sehrishejaz1.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-01193F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-D2B486?style=for-the-badge&logo=googlechrome&logoColor=01193F" alt="Portfolio"/>
 </a>
 
 </div>
@@ -143,19 +147,20 @@ I enjoy transforming complex challenges into practical, reliable, and data-drive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SehrishEjaz1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=00E5FF" alt="GitHub Stats" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SehrishEjaz1&theme=github_dark&bg_color=173761&title_color=D2B486&text_color=FFFFFF&icon_color=6BADDF" alt="GitHub Statistics" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehrishEjaz1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" alt="Top Languages" height="170"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SehrishEjaz1&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF8C00&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=B8B8FF" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SehrishEjaz1&theme=github_dark&bg_color=173761&title_color=D2B486&text_color=FFFFFF" alt="Top Languages" height="180"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SehrishEjaz1&label=PROFILE+VIEWS&color=556B2F&style=for-the-badge" alt="Profile Views"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SehrishEjaz1&theme=github_dark&bg_color=173761&title_color=D2B486&text_color=FFFFFF&chart_color=6BADDF" alt="GitHub Contribution Overview"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SehrishEjaz1&label=PROFILE+VIEWS&color=D2B486&style=for-the-badge" alt="Profile Views"/>
 
 </div>
+
 
 ---
 
