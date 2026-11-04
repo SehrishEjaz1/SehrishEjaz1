@@ -6,7 +6,9 @@
 
 
 
-<img src="https://scribesvg.vercel.app/api/render?lines=Software+Quality+Assurance+%7C+Test+Automation;Machine+Learning+%7C+AI+Engineering;NLP+%7C+Generative+AI;Data+Science+%7C+Data+Analytics;Applied+AI+%7C+Intelligent+Systems&font=Poppins&size=28&weight=600&color=708238&background=transparent&speed=85&deleteSpeed=42&pause=950&cursor=none&textGlow=0&center=true&width=1000&height=85&attribution=false" alt="Animated Olive Green Professional Text" />
+
+<img src="https://scribesvg.vercel.app/api/render?lines=Software+Quality+Assurance+%7C+Test+Automation;Machine+Learning+%7C+AI+Engineering;NLP+%7C+Generative+AI;Data+Science+%7C+Data+Analytics;Applied+AI+%7C+Intelligent+Systems&font=Space%20Grotesk&size=28&weight=600&color=708238&background=transparent&speed=85&deleteSpeed=42&pause=950&cursor=none&textGlow=0&center=true&width=1000&height=85&attribution=false" alt="Animated Stylish Olive Green Text" />
+
 
 <br>
 </div>
