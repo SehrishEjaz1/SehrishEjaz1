@@ -154,7 +154,7 @@ I enjoy transforming complex challenges into practical, reliable, and data-drive
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SehrishEjaz1&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SehrishEjaz1&label=PROFILE+VIEWS&color=FF69B5&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
