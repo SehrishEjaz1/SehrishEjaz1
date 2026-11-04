@@ -100,7 +100,6 @@ A passionate Computer Science student exploring Machine Learning, Software Devel
 - 📧 **Email**: sehrish.ejaz01@gmail.com
 - 🌐 **Portfolio**: [Visit My Portfolio](https://sehrishejaz1.github.io/Portfolio/)
 - 🔬 **ML Research Paper**: [Content Refresh Prioritization](https://sehrishejaz1.github.io/Flyrank_ML_Intern/)
-- 📞 **Contact**: 03008327301
 
 ---
 
