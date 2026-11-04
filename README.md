@@ -3,20 +3,20 @@
 
 # Hi, I'm Sehrish Ejaz 👋
 
-### Computer Science Senior @ FAST-NUCES Lahore
+**Computer Science Senior @ FAST-NUCES Lahore**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=65&lines=Machine+Learning+Engineer;Software+Developer;QA+%26+Software+Testing;Artificial+Intelligence+Explorer;UI%2FUX+Designer;Building+Real-World+Solutions" alt="Animated professional roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2300&pause=850&color=38D9FF&center=true&vCenter=true&repeat=true&width=1000&height=75&lines=NLP+%7C+Gen+AI+%7C+Data+Science;Machine+Learning+%7C+Software+Quality+Assurance;Software+Development+%7C+UI%2FUX+Design;AI%2FML+Engineering+%7C+Problem+Solving" alt="Animated sky-blue typing text" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/sehrish-ejaz/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:sehrish.ejaz01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://sehrishejaz1.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -25,178 +25,103 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate **Computer Science student at FAST-NUCES Lahore**, exploring the intersection of **Machine Learning, Artificial Intelligence, Software Development, Software Testing, and UI/UX Design**.
+I'm a passionate **Computer Science student at FAST-NUCES Lahore** with experience in Machine Learning, Natural Language Processing, Software Development, Software Quality Assurance, and UI/UX Design.
 
-My experience includes developing ML models on real-world datasets, building intelligent applications, designing user-focused interfaces, and implementing software solutions.
+I love building real-world projects, exploring intelligent technologies, solving challenging problems, and constantly improving my technical skills.
 
-I enjoy transforming ideas into practical applications through problem-solving, experimentation, and continuous learning.
-
-- 🔭 **ML Engineering Intern** — FlyRank AI
-- 🎓 **Education** — BS Computer Science, FAST-NUCES Lahore
-- 🤖 **Focus** — Machine Learning, AI & Software Engineering
-- 🧪 **Testing** — Software Quality Assurance & Automation
-- 🎨 **Design** — UI/UX & User-Centered Applications
-- 🌱 **Currently Learning** — Advanced ML, Model Evaluation & Deployment
+- 🤖 **Machine Learning Engineering Intern** — FlyRank AI
+- 🎓 **BS Computer Science** — FAST-NUCES Lahore
+- 🧠 **Interests** — NLP, Gen AI, Data Science & Machine Learning
+- 🧪 **Software Quality Assurance** — Manual & Automated Testing
+- 💻 **Development** — Software Engineering & Real-World Applications
+- 🎨 **Design** — UI/UX & Interactive Prototyping
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Achievements
 
-🥇 **Winner — C++ Coding Competition**  
-FAST Problem-Solving Challenge, Faisalabad Campus | 2024
-
-🥈 **Runner-Up — Business Scavenger Hunt**  
-FAST-NUCES Business Society, Islamabad Campus | 2024
-
-📊 **Machine Learning Research — FlyRank AI**  
-Developed a content refresh prioritization pipeline using **30,000 anonymized real-world search records**, achieving **Precision@50 of 0.720**, compared to a **0.500 rule-based baseline**.
-
-🚀 **9+ Academic & Real-World Projects**  
-Experience across Machine Learning, AI, Software Engineering, Databases, Networking, and UI/UX Design.
+- 🥇 **Winner — C++ Coding Competition**, FAST Problem-Solving Challenge, Faisalabad Campus (2024)
+- 🥈 **Runner-Up — Business Scavenger Hunt**, FAST-NUCES Business Society, Islamabad Campus (2024)
+- 📄 **ML Research Work** — Content Refresh Prioritization on 30,000 anonymized search records
+- 🚀 **9+ Projects** across Machine Learning, AI, Software Development, Databases, Networking and UI/UX
+- 🌟 **Real-World Experience** — Worked on real-client and real-data projects
 
 ---
 
-## 🛠️ Technical Skills & Tech Stack
+## 🛠️ Technical Skills & Tools
 
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Web Development & Frameworks
+### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🤖 AI & Machine Learning Libraries
+### 🤖 AI / Machine Learning / Data Science
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Machine Learning Techniques:** Random Forest, Logistic Regression, TF-IDF, Classification, Feature Engineering, Model Validation, Precision@K
-
-### 🧪 QA & Software Testing
+### 🧪 Software Quality Assurance & Testing
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon_Studio-00C4B3?style=for-the-badge)
-
-**Skills:** Test Case Design, Functional Testing, Automated Testing, Software Quality Assurance
+![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-00C4B3?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🎨 UI/UX & Design
+### 🎨 UI/UX Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-**Skills:** Wireframing, Prototyping, User-Centered Design, Interface Design
-
-### 🔧 Developer Tools & Platforms
+### ⚙️ Developer Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Content Refresh Prioritization — FlyRank AI
-
-**Tech Stack:** Python, Scikit-learn, Random Forest, Pandas
-
-- Built a machine learning pipeline using **30,000 anonymized search records**.
-- Developed a rule-based baseline and trained a Random Forest model.
-- Applied client-grouped validation to reduce data leakage.
-- Achieved **Precision@50 = 0.720**, compared with baseline **0.500**.
-- Documented the methodology and findings in an ML research report.
-
-📄 [View ML Research Project](https://sehrishejaz1.github.io/Flyrank_ML_Intern/)
-
-### 🔹 QuickCart — AI-Powered Customer Support Chatbot
-
-**Tech Stack:** Python, TF-IDF, Logistic Regression, Streamlit
-
-- Developed an intelligent e-commerce customer support chatbot.
-- Implemented **13 customer-service intents**.
-- Achieved approximately **84% test accuracy**.
-- Integrated multi-turn conversation context and slot-filling.
-
-### 🔹 TradeNex — Digital Trade & Ordering Platform
-
-**Tech Stack:** Figma, UI/UX Design, System Design
-
-- Worked on a real-client digital procurement platform for tile installation materials.
-- Designed wireframes and interactive prototypes.
-- Focused on usability, ordering workflows, and user experience.
-
-### 🔹 AI-Powered Material Recommendation System
-
-**Tech Stack:** Python, Random Forest, Pandas
-
-- Built a decision-support system for tile installation projects.
-- Estimated installation material requirements.
-- Developed grout colour recommendations based on project inputs.
-
-### 🔹 Online Library Management System
-
-**Tech Stack:** SQL, Oracle/MySQL
-
-- Designed a database-driven library management system.
-- Implemented member management, book tracking, and fine calculation.
-- Created ER diagrams and normalized database schemas to 3NF.
-
-### 🔹 OSPF vs RIP Routing Comparison
-
-**Tech Stack:** Cisco Packet Tracer
-
-- Evaluated dynamic routing protocols.
-- Compared convergence time, bandwidth usage, and scalability.
-
-### 🔹 Pac-Man Game
-
-**Tech Stack:** x86 Assembly
-
-- Developed a VGA text-mode Pac-Man game.
-- Implemented character movement, keyboard input, and animation.
-
-### 🔹 Customer Service Module
-
-**Tech Stack:** C++, Data Structures
-
-- Implemented doubly linked lists and AVL trees.
-- Optimized data searching and retrieval.
-
-### 🔹 Hotel Management System
-
-**Tech Stack:** C++, Object-Oriented Programming
-
-- Developed a hotel booking and management application.
-- Applied OOP principles for modular system design.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **Content Refresh Prioritization — FlyRank ML Internship** | Python · Scikit-learn · Random Forest · Pandas | ML pipeline on 30,000 real anonymized search records. Built rule baseline, trained Random Forest with client-grouped validation. Precision@50: 0.720 vs baseline 0.500. Documented as a research paper. |
+| **QuickCart Support Chatbot** | Python · TF-IDF · Logistic Regression · Streamlit | AI-powered e-commerce customer support chatbot. 13 intents, ~84% test accuracy, multi-turn context tracking with slot-filling. |
+| **TradeNex — Digital Trade & Ordering Platform** | Figma · UI/UX · System Design | Real-client web-based procurement platform for tile installation materials. Designed wireframes and prototypes with focus on usability. |
+| **AI-Powered Material Recommendation System** | Python · Random Forest · Pandas | Decision support system that estimates tile installation material quantities and recommends grout colour based on project inputs. |
+| **Online Library Management System** | SQL · Oracle/MySQL | Database-driven system with member management, book tracking, and fine calculation. Designed ER diagrams and normalized schema to 3NF. |
+| **OSPF vs RIP Routing Comparison** | Cisco Packet Tracer | Performance evaluation of two routing protocols. Analyzed convergence time, bandwidth usage, and scalability. |
+| **Pac-Man Game** | x86 Assembly | VGA text-mode game with animated character movement and keyboard input handling. |
+| **Customer Service Module** | C++ | Built using doubly linked lists and AVL trees for optimized search and retrieval. |
+| **Hotel Management System** | C++ | Hotel booking and services system using OOP principles. |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehrishEjaz1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SehrishEjaz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SehrishEjaz1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehrishEjaz1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -205,34 +130,54 @@ Experience across Machine Learning, AI, Software Engineering, Databases, Network
 ## 🎯 Currently Working On
 
 - 🤖 **FlyRank AI** — Machine Learning Engineering Internship
-- 🎓 **FYP-1** — Final Year Project at FAST-NUCES Lahore
+- 🎓 **FYP-1** — Final Year Project (Phase 1) at FAST-NUCES Lahore
 - 🌐 **TradeNex** — Real-Client Digital Trade Platform
-- 📚 **Advanced Machine Learning** — Model Validation, Evaluation & Deployment
+- 📚 **Advanced ML** — Model Validation, Evaluation & Deployment
 
 ---
 
-## 📫 Let's Connect
+## 💡 Skills & Interests
+
+✅ **Machine Learning** — Model building, validation, leakage auditing and deployment
+
+✅ **NLP & Generative AI** — Exploring intelligent language technologies
+
+✅ **Software Development** — Building practical applications
+
+✅ **Software Quality Assurance** — Manual and automated testing
+
+✅ **UI/UX Design** — Wireframing and interactive prototyping
+
+✅ **Database Design** — SQL, relational modeling and normalization
+
+✅ **Problem Solving** — DSA, OOP and low-level programming
+
+---
+
+## 📫 Let's Connect!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sehrish-ejaz/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:sehrish.ejaz01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://sehrishejaz1.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/SehrishEjaz1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
 
-### ✨ Always Curious, Always Creating! 🚀
+🔬 [ML Research Paper — Content Refresh Prioritization](https://sehrishejaz1.github.io/Flyrank_ML_Intern/)
+
+<br>
+
+**Thanks for visiting my profile!**
+
+*Always curious, always creating.* 🚀
 
 </div>
