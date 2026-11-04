@@ -5,8 +5,11 @@
 ### 🎓 Computer Science Senior @ FAST-NUCES Lahore
 
 
-<img src="https://scribesvg.vercel.app/api/render?lines=Software+Quality+Assurance+%7C+Test+Automation;Machine+Learning+%7C+AI+Engineering;NLP+%7C+Generative+AI;Data+Science+%7C+Data+Analytics;Applied+AI+%7C+Intelligent+Systems&font=Fira%20Code&size=27&color=708238&gradient=5E6F32,96A85F,708238&background=transparent&speed=85&deleteSpeed=42&pause=950&cursor=none&textGlow=4&center=true&width=1000&height=85&attribution=false" alt="Animated Light Olive Green Text" />
 
+<img src="https://scribesvg.vercel.app/api/render?lines=Software+Quality+Assurance+%7C+Test+Automation;Machine+Learning+%7C+AI+Engineering;NLP+%7C+Generative+AI;Data+Science+%7C+Data+Analytics;Applied+AI+%7C+Intelligent+Systems&font=Fira%20Code&size=27&weight=600&color=708238&background=transparent&speed=85&deleteSpeed=42&pause=950&cursor=none&textGlow=0&center=true&width=1000&height=85&attribution=false" alt="Animated Olive Green Text" />
+
+<br>
+</div>
 
 <div align="center">
 
