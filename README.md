@@ -1,7 +1,7 @@
 # Hi, I'm Sehrish Ejaz 👋
 
 **Computer Science Student @ FAST-NUCES Lahore**  
-*ML Intern | Software Developer | QA Tester | AI/ML Explorer | UI/UX Designer*
+*ML Intern | QA Tester | Software Developer| AI/ML Explorer*
 
 A passionate Computer Science student exploring Machine Learning, Software Development, Software Testing, and UI/UX Design. I love building real-world projects, solving challenges, and constantly growing my skills. Always curious, always creating! 🚀
 
